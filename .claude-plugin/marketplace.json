@@ -1,0 +1,19 @@
+{
+  "name": "skillvize-free-skills",
+  "owner": { "name": "Skillvize Team", "url": "https://www.skillvize.com" },
+  "plugins": [
+    {
+      "name": "skillvize-free-skills",
+      "description": "Free Agent Skills (SKILL.md) from the Skillvize Team: code review, bug triage, error explanation, research briefs, and meeting notes.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./code-review-companion",
+        "./bug-report-triage",
+        "./error-message-explainer",
+        "./deep-research-brief",
+        "./meeting-notes-action-plan"
+      ]
+    }
+  ]
+}
